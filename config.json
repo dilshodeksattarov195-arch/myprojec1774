@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervalidate",
+        "uuid": 6838770,
+        "checksum": "pllbn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
